@@ -1,10 +1,10 @@
-b0bc10a80f900edffc23cb03c6fc77c8 *DESCRIPTION
+ce6c230d0aed45b10a2af50cb35e49f0 *DESCRIPTION
 e47bb5d4991c9d0a08f0dbbf8a0a7458 *LICENSE
 d21672a3d190c51a5991397ceeb4b6f2 *NAMESPACE
 aaf005e994420546cfe853a37e1a00fb *NEWS.md
-ca5c48a1a77e40e8ed89f2698276e4dd *R/augment_data_helper.R
+ba86d05f4530fb1b4bb3812082a82b19 *R/augment_data_helper.R
 b0c9b90f40368d29855c80c5cfeff256 *R/check_arguments.R
-8067af34877bbbcd7fbdad9f6a0c9c5d *R/check_augment_data_specification.R
+95ba140a0ab54f9fc6bb8e39dfc727bc *R/check_augment_data_specification.R
 eaa50723c8cadcc5e99cc25168dec723 *R/check_augment_function.R
 26bf689da4a2268029567d7dd9e2aebc *R/check_augment_newdata_precedence.R
 69abe8af175e124fc4b2105ed7f3c546 *R/check_augment_no_data.R
@@ -39,7 +39,7 @@ e13da915088d03233ff15cb6bb0548cc *man/has_rownames.Rd
 43721e4c6e161f1938359053c93a0182 *tests/testthat.R
 531422756a4817e55b844b72a098fbda *tests/testthat/test-augment_data_helper.R
 ec2ab01f7198f05d818c5ce9891aa68a *tests/testthat/test-check_arguments.R
-6534479e3a9bd4d0f709d4777247036e *tests/testthat/test-check_augment_data_specification.R
+7ca3b7a7c88fed670a5db6f1c7ea23dc *tests/testthat/test-check_augment_data_specification.R
 1136132a64f431a795c5ef28d4379bb3 *tests/testthat/test-check_augment_function.R
 7fc8a4e8eda25bfaca29b68bf16716c8 *tests/testthat/test-check_augment_newdata_precedence.R
 a18bc093184f5bccb432df672854bd9d *tests/testthat/test-check_augment_no_data.R
