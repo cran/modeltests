@@ -1,3 +1,9 @@
+# modeltests 0.1.4
+
+* Extended the argument and column glossaries to accommodate changes in
+the upcoming broom release.
+* Transitions continuous integration from Travis and Appveyor to GitHub Actions
+
 # modeltests 0.1.3
 
 * Extended the argument and column glossaries to accommodate changes in

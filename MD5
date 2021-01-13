@@ -1,7 +1,7 @@
-2bbe790aaa16a1806e14309cd9bc04ac *DESCRIPTION
+0cbde0e964449598f7ceefe7e09e6b32 *DESCRIPTION
 4410edd5627b1f9f4107073bf186d376 *LICENSE
 4cc768ed82d6493c5bba44d32f3413df *NAMESPACE
-7b4f6e30aa6215b7a18ff8fb9b77bc46 *NEWS.md
+69563c58091440368b865e19813cb487 *NEWS.md
 28778f4ffd8b29b440471dcd7ee46080 *R/augment_data_helper.R
 1c078cd8321462a7557ee30937404ae7 *R/check_arguments.R
 34c60f39c69668dd8140cc50fe466a41 *R/check_augment_data_specification.R
@@ -17,9 +17,9 @@ a675ef186f18040201bfdcdca4c6748b *R/data-argument-glossary.R
 c2743c30e00baee3eec85e9b55f82874 *R/data-column-glossary.R
 8bbbce5e38498800d85ca0df022b1f17 *R/modeltests-package.R
 5733e523827fee2d209a4c417a75c856 *R/utils.R
-9bddbb4090917e7ed8e876ccc02a59e4 *README.md
+e4ef9863030eba1588a1bcf2817c4a35 *README.md
 dc67eb9560f0db3e900aaa1d9ac7e1e3 *data/argument_glossary.rda
-a1927ca2ef4b3bc25c3a3f37c50e66ac *data/column_glossary.rda
+71cf954f1fdf9c1721d884c0ad0d4adb *data/column_glossary.rda
 d72248e96b7263dad56688f75c154145 *man/acceptable_augment_colnames.Rd
 1cd095651dce232edadc394a6b31a5d1 *man/argument_glossary.Rd
 264dd1c3494f893c02a2908ce903dbab *man/augment_data_helper.Rd
@@ -35,7 +35,7 @@ b30da408bfa5203661cd99c8fda521cf *man/check_single_augment_output.Rd
 56e24bf9d7f02ac150a5061f5f40b812 *man/check_tidy_output.Rd
 0196675d0093b6029bcccd4139beeb9b *man/column_glossary.Rd
 1b3a4aef2664ccd6346ad4852952c3b5 *man/has_rownames.Rd
-edfe07feb2f2912f7aad38b36f3b7e86 *man/modeltests-package.Rd
+e5ee465973051e93f6d74b86d3b7bb90 *man/modeltests-package.Rd
 4ec66e7aceac6538f64bcd5907985aa0 *tests/testthat.R
 30280708c6876f06c697d19aca5883b2 *tests/testthat/test-augment_data_helper.R
 87c467b70ac3a78a1dffa8458f57808c *tests/testthat/test-check_arguments.R
